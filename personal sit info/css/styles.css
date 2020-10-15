@@ -1,0 +1,26 @@
+body{
+  background-color:#cffffe;
+}
+
+hr {
+  border-style:none ;
+  border-top-style: dotted;
+  border-color:grey
+  border-width:5px;
+  width:5%;
+}
+h1{
+  color:#519872;
+}
+p{
+  color:#0f4c75;
+}
+.profile{
+  background-color:green;
+}
+.circular{
+  border-radius: 0%;
+}
+img:hover{
+  background-color:grey;
+}
